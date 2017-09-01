@@ -21,4 +21,4 @@ ListNode* mergeTwoSortedLinkList(ListNode *head1, ListNode *head2) {
     q = ret->next;
     free(ret);
     return q;
-}
+}//
